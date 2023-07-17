@@ -1,2 +1,2 @@
-# redux-counter-example
+# Redux counter example
 Created with CodeSandbox
